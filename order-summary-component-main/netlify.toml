@@ -1,2 +1,6 @@
 [context.master]
   command = ""
+
+[build]
+  publish = "/order-summary-component-main"
+  base = "/index.html"
